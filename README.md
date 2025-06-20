@@ -10,7 +10,7 @@ Pastikan Anda sudah menginstal:
 
 1. **Clone repository ini**
 
-````bash
+```bash
 git clone https://github.com/FJericho/discount-voucher-api
 cd discount-voucher-api
 ```
@@ -19,7 +19,7 @@ cd discount-voucher-api
 
 ```bash
 docker compose up --build
-````
+```
 
 3. **Jalankan Project**
 
