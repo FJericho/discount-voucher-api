@@ -1,0 +1,28 @@
+{
+    "app": {
+        "name": "peneleh"
+    },
+    "web": {
+        "prefork": false,
+        "port": 3000
+    },
+    "log": {
+        "level": 6
+    },
+    "database": {
+        "username": "root",
+        "password": "root",
+        "host": "localhost",
+        "port": 5400,
+        "dbname": "voucher-manage-db",
+        "sslmode": "disable"
+    },
+    "jwt": {
+        "secret_key": "abogoboga123"
+    },
+    "admin": {
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin123"
+    }
+}
