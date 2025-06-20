@@ -13,6 +13,7 @@ Pastikan Anda sudah menginstal:
 ````bash
 git clone https://github.com/FJericho/discount-voucher-api
 cd discount-voucher-api
+```
 
 2. **Jalankan dengan Docker Compose**
 
