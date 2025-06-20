@@ -1,12 +1,12 @@
 # Voucher Management API
 
-## 🔧 Prasyarat
+## Syarat
 
 Pastikan Anda sudah menginstal:
 
 -   [Docker](https://www.docker.com/products/docker-desktop/)
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. **Clone repository ini**
 
